@@ -1,1 +1,1 @@
-# Spline-Linear-Interpolation
+# Spline Linear Interpolation Calculator
